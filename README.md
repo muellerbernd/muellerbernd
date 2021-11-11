@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Computer Science student, Developer and Maker<br/>
+I'm a Computer Science student, developer, maker and mechanical keyboard enthusiast<br/>
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/muellerbernd/)<br/>
 - 📫 How to reach me **bernd@muellerbernd.de**  <br/>
 - 🎯 2021 Goals: Contribute more to Open Source projects <br/> 
