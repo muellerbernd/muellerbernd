@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="left">I'm a Computer Science student, Developer and Maker</h3>
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/muellerbernd)  <br/>
+I'm a Computer Science student, Developer and Maker<br/>
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/muellerbernd/)<br/>
 - 📫 How to reach me **bernd@muellerbernd.de**  <br/>
 - 🎯 2021 Goals: Contribute more to Open Source projects <br/> 
 
