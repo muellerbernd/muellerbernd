@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">I'm a Computer Science student, Developer and Maker</h3>
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/muellerbernd)  
-- 📫 How to reach me **bernd@muellerbernd.de**  
-- 🎯 2021 Goals: Contribute more to Open Source projects  
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/muellerbernd)  <br/>
+- 📫 How to reach me **bernd@muellerbernd.de**  <br/>
+- 🎯 2021 Goals: Contribute more to Open Source projects <br/> 
 
 ![muellerbernd's GitHub stats](https://github-readme-stats.vercel.app/api?username=muellerbernd&show_icons=true&theme=gruvbox)
