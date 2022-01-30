@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Computer Science student, developer, maker and mechanical keyboard enthusiast<br/>
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/muellerbernd/)<br/>
+- 👨‍💻 Some of my projects are available at [GitHub](https://github.com/muellerbernd/)<br/>
 - 📫 How to reach me **bernd@muellerbernd.de**  <br/>
-- 🎯 2021 Goals: Contribute more to Open Source projects <br/> 
+- 🎯 2022 Goals: Contribute more to Open Source projects <br/> 
 
 
 ![muellerbernd's GitHub stats](https://github-readme-stats.vercel.app/api?username=muellerbernd&show_icons=true&theme=gruvbox)
