@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a developer, maker and mechanical keyboard enthusiast<br/>
 - 👨‍💻 Some of my projects are available at [GitHub](https://github.com/muellerbernd/)<br/>
-- 📫 How to reach me **bernd@muellerbernd.de**  <br/>
+- 📫 How to reach me **github@muellerbernd.de**  <br/>
 - 🎯 2022 Goals: Contribute more to Open Source projects <br/> 
 
 
